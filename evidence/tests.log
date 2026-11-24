@@ -1,0 +1,14 @@
+test_changed_file_detected (test_checker.CheckerTests.test_changed_file_detected) ... ok
+test_duplicate_json_keys_rejected (test_checker.CheckerTests.test_duplicate_json_keys_rejected) ... ok
+test_duplicate_path_rejected (test_checker.CheckerTests.test_duplicate_path_rejected) ... ok
+test_large_file_rejected (test_checker.CheckerTests.test_large_file_rejected) ... ok
+test_matching_bytes_without_authenticity_claim (test_checker.CheckerTests.test_matching_bytes_without_authenticity_claim) ... ok
+test_missing_artifact_rejected (test_checker.CheckerTests.test_missing_artifact_rejected) ... ok
+test_noncanonical_alias_and_boolean_schema_rejected (test_checker.CheckerTests.test_noncanonical_alias_and_boolean_schema_rejected) ... ok
+test_symlink_rejected (test_checker.CheckerTests.test_symlink_rejected) ... ok
+test_traversal_and_absolute_rejected (test_checker.CheckerTests.test_traversal_and_absolute_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK

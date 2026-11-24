@@ -1,0 +1,28 @@
+{
+  "scope": "actual local manifest and fixture byte checks; no authenticated signing or production admission",
+  "valid_bundle": {
+    "integrity_matches": true,
+    "authenticity_established": false,
+    "files": [
+      {
+        "path": "evidence.txt",
+        "bytes": 55,
+        "digest_matches": true
+      }
+    ],
+    "scope": "integrity relative to a supplied manifest; stable owned files assumed during check"
+  },
+  "mismatched_digest": {
+    "integrity_matches": false,
+    "authenticity_established": false,
+    "files": [
+      {
+        "path": "evidence.txt",
+        "bytes": 55,
+        "digest_matches": false
+      }
+    ],
+    "scope": "integrity relative to a supplied manifest; stable owned files assumed during check"
+  },
+  "tool_version": "0.1.0-contribution-preview"
+}

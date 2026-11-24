@@ -1,0 +1,40 @@
+{
+  "executed_at_utc": "2026-11-24T06:56:06.562251+00:00",
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "unique_regression_tests": 9,
+  "source_manifest_files": 17,
+  "local_links_checked": 11,
+  "isolation": {
+    "requested": true,
+    "probe": "blocked",
+    "errno": 101,
+    "exception": "OSError",
+    "interfaces": [
+      "lo"
+    ],
+    "default_ipv4_route": false,
+    "root_read_only": true,
+    "workspace_read_only": true,
+    "uid": 1000
+  },
+  "contribution": {
+    "slug": "security-assurance-tools",
+    "area": "A signature security tool",
+    "title": "Evidence Bundle Checker: bounded offline manifest validation",
+    "contribution": "contributions/001-evidence-bundle-checker.md",
+    "stage": "Runnable local CLI with negative fixtures; unsigned manifests do not prove authenticity",
+    "topics": [
+      "security-tools",
+      "integrity",
+      "evidence",
+      "supply-chain-security"
+    ],
+    "description": "A signature security tool: Evidence Bundle Checker: bounded offline manifest validation. Runnable local CLI with negative fixtures; unsigned manifests do not prove authenticity."
+  },
+  "experiment_scope": "actual local manifest and fixture byte checks; no authenticated signing or production admission",
+  "stage": "local contribution evidence; no customer or vendor outcome claim"
+}

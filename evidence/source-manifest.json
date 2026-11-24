@@ -1,0 +1,19 @@
+{
+  ".gitignore": "c5da61d8697ccd4dad4014069b94ed2a9cd5765cd0ea80676f5eda3548d32225",
+  "AGENTS.md": "9303e733e201264bbf7f7712a66d00a3866dd0cf3cf660d412a2bea8d474f212",
+  "CITATION.cff": "1225984e27381cfdaef63cb84146bbdce21e540ea8a5f791d253cc38d5af3a60",
+  "CONTRIBUTING.md": "74c4b771625c1b0712702cc9641f2e6a571b065cceaad28b11e80afe71044fb9",
+  "CONTRIBUTIONS.md": "b08873afd26cb4ed9e656f86375cc9d344df10e7b496a8a9976c95378f1c8089",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "README.md": "98b1e052c7ca17eb547f37b8a9a5ced90ea0e31ee27843da82be67b4713e274d",
+  "SECURITY.md": "25e8da3dd7d659597d57199598ad955a03107b26d33c8e05ebb318816e0a02bd",
+  "contributions/001-evidence-bundle-checker.md": "23901a84c05b9b04cf990963daeea2f2a3252f11a237ea3b4fe88e7bafc2f5a6",
+  "fixtures/bundle/evidence.txt": "ff0f750555fd175ecf7fc331eb2d435af671a7fad5daf906f27065396d787048",
+  "fixtures/contribution.json": "97e059777cf996f68504e86a64b29c237c1c58a16f4398cda9a23b2dc967528f",
+  "fixtures/manifest.json": "ee78691111327d9ce8ee1f6955a689483f5911412fa1c2e6db485df0a5129325",
+  "tests/test_checker.py": "5d7c5aa585729184bf36b1baed4208b1fa70060183690698a16893c3b1370219",
+  "tools/README.md": "95744f9e51f3cb3bdbbd2fdd9e893160fbb3174eac8b57fc3ad7c6692ca44d68",
+  "tools/bundle_checker.py": "461acf232cce2335a678bfef9d5d69dce5192373133b3894bc9f859343467c26",
+  "tools/experiment.py": "4ec3c8193d3b88a28c8b4f84a23c9bac4be76730a68baf7112e8f463c3e8af91",
+  "tools/verify.py": "befa930dd988f221c071e0fb63714bd512bc0aa559e49d06a79dccf88eb922c7"
+}

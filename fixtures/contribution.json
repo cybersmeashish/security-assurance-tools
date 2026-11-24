@@ -1,0 +1,14 @@
+{
+  "slug": "security-assurance-tools",
+  "area": "A signature security tool",
+  "title": "Evidence Bundle Checker: bounded offline manifest validation",
+  "contribution": "contributions/001-evidence-bundle-checker.md",
+  "stage": "Runnable local CLI with negative fixtures; unsigned manifests do not prove authenticity",
+  "topics": [
+    "security-tools",
+    "integrity",
+    "evidence",
+    "supply-chain-security"
+  ],
+  "description": "A signature security tool: Evidence Bundle Checker: bounded offline manifest validation. Runnable local CLI with negative fixtures; unsigned manifests do not prove authenticity."
+}
